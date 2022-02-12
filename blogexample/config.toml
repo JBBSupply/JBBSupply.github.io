@@ -1,4 +1,4 @@
-baseURL = 'https://jbbsupply.github.io'
+baseURL = 'https://JBBSupply.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Example Hugo Site'
 theme = "Hugo-Octopress"
